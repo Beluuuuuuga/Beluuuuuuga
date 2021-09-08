@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Beluuuuuuga/Beluuuuuuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Beluuuuuuga's github stats](https://github-readme-stats.vercel.app/api?username=Beluuuuuuga&count_private=true&hide=contribs,prs)](https://github.com/Beluuuuuuga/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beluuuuuuga&layout=compact&langs_count=8&hide=html,css)](https://github.com/Beluuuuuuga/github-readme-stats)
